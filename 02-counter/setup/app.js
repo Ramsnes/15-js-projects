@@ -36,12 +36,12 @@ btns.forEach(function (btn) {
 // (btn)parameter accesses each item in btns variabel, could be any word
 
 // console.log //
-// callback function(function (e)) we are accessing the event object
+// callback function(function (eventObject)) we are accessing the event object
 // currentTarget shows which button is clicked on
 // .classList is looking for all the classes the element has
 
 //const styles //
-// savnes in the variable which of classes the element(buttons) has
+// saves in the variable which of classes the element(buttons) has
 
 // if statement //
 // if the const 'styles' contains a specific class('decrease'), minus count

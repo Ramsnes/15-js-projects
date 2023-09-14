@@ -13,5 +13,5 @@ btn.addEventListener("click", function () {
 
 // returns a random number between 0 - 4 (length of const colors)
 const getRandomNumber = () => {
-  return Math.floor(Math.random() * colors.length);
+  return Math.floor(Math.random() * colors.length); //4
 };
